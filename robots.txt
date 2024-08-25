@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://xiao-alto.github.io/sitemap/sitemap.txt
